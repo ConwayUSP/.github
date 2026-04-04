@@ -32,7 +32,7 @@ Nossos materiais de estudos para capacitação de nossos membros,
 
 Nossas trilhas de conhecimento diverso.
 
-- [Introdução à C++](), curso de introdução à linguagem C++.
+- [Introdução à C++](https://github.com/ConwayUSP/Intro_Cpp), curso de introdução à linguagem C++.
 - [Curso de Git & Github](https://github.com/ConwayUSP/Git_Github)
 - [Fundamento de Arte para Jogos](https://github.com/ConwayUSP/Fundamentos-da-Arte-para-Jogos)
 
@@ -40,5 +40,5 @@ Nossas trilhas de conhecimento diverso.
 
 Nossos projetos práticos, como jogos e trabalhos de computação gráfica.
 
-- [Deadly Encounter](), um jogo de 007 feito para a Game Jam de LÖVE 2026.
-- [Dodge the Creeps](), implementação do jogo "Dodge the Creeps" para a trilha _Lucky Crab_.
+- [Deadly Encounter](https://github.com/ConwayUSP/Deadly-Encounters), um jogo de 007 feito para a Game Jam de LÖVE 2026.
+- [Dodge the Creeps](https://github.com/ConwayUSP/DodgetheCreeps), implementação do jogo "Dodge the Creeps" para a trilha _Lucky Crab_.
