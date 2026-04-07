@@ -30,6 +30,10 @@ Nossos materiais de estudos para capacitação de nossos membros.
 - [Curso de Git & Github](https://github.com/ConwayUSP/Git_Github).
 - [Fundamentos da Arte para Jogos](https://github.com/ConwayUSP/Fundamentos-da-Arte-para-Jogos).
 
+<img width="700" alt="Grafo de trilhas" src="https://github.com/user-attachments/assets/04a2130d-efe0-4ede-8524-3758667ce2ff"/>
+
+> Nota: se você é novo no mundo da programação e deseja fazer nossas trilhas, recomendamos fortemente que comece com a **Sea of C** (trilha de C e Raylib)
+
 ## Projetos Práticos
 
 Nossos projetos práticos, como jogos e trabalhos de computação gráfica.
