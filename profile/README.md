@@ -38,5 +38,6 @@ Nossos materiais de estudos para capacitação de nossos membros.
 
 Nossos projetos práticos, como jogos e trabalhos de computação gráfica.
 
+- [MushRooms](https://github.com/ConwayUSP/MushRooms): um roguelike com construção de base que ficará pronto até 2038.
 - [Deadly Encounter](https://github.com/ConwayUSP/Deadly-Encounters): um jogo de 007 feito para a Game Jam de LÖVE 2026.
 - [Dodge the Creeps](https://github.com/ConwayUSP/DodgetheCreeps): implementação do jogo "Dodge the Creeps" para a trilha _Lucky Crab_.
