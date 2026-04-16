@@ -18,15 +18,15 @@ Nossos materiais de estudos para capacitação de nossos membros.
 - [Introdução ao Desenvolvimento de Jogos 2D](https://github.com/ConwayUSP/Intro_Games2D) com o framework LÖVE 2D.
 - [Introdução ao Desenvolvimento de Jogos 3D](https://github.com/ConwayUSP/Intro_Games3D) com o Godot Game Engine.
 - [Lucky Crab](https://github.com/ConwayUSP/Lucky_Crab): curso introdutório à linguagem Rust, ao Godot Game Engine e à _binding_ Godot-Rust.
-- [Sea of C](https://github.com/ConwayUSP/Sea-of-C): introdução à linguagem C e à biblioteca Raylib.
 
 ### Computação Gráfica
 
+- [Introdução à C++](https://github.com/ConwayUSP/Intro_Cpp).
 - [Estado da Arte](https://github.com/ConwayUSP/Estado-da-Arte): introdução ao OpenGL e a conceitos de computação gráfica.
 
 ### Ciclo Básico (conhecimentos diversos)
 
-- [Introdução à C++](https://github.com/ConwayUSP/Intro_Cpp).
+- [Sea of C](https://github.com/ConwayUSP/Sea-of-C): introdução à linguagem C e à biblioteca Raylib.
 - [Curso de Git & Github](https://github.com/ConwayUSP/Git_Github).
 - [Fundamentos da Arte para Jogos](https://github.com/ConwayUSP/Fundamentos-da-Arte-para-Jogos).
 
