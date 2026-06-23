@@ -41,3 +41,5 @@ Nossos projetos práticos, como jogos e trabalhos de computação gráfica.
 - [MushRooms](https://github.com/ConwayUSP/MushRooms): um roguelike com construção de base que ficará pronto até 2038.
 - [Deadly Encounter](https://github.com/ConwayUSP/Deadly-Encounters): um jogo de 007 feito para a Game Jam de LÖVE 2026.
 - [Dodge the Creeps](https://github.com/ConwayUSP/DodgetheCreeps): implementação do jogo "Dodge the Creeps" para a trilha _Lucky Crab_.
+- [White Hole](https://github.com/conwayUSP/WhiteHole): lute contra em humanos invadindo seu planeta, submissão para a Game Jam da Conway 2026.1.
+- [SpaceWar Cats](https://github.com/conwayUSP/SpaceWar-Cats): controle uma espaço nave e proteja a Terra de aliens invasores, submissão para a Game Jam da Conway 2026.1.
